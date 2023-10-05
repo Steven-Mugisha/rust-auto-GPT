@@ -1,0 +1,12 @@
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/tempfile-312459fb508b94bd.rmeta: /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/lib.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/dir.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/error.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/mod.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/mod.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/spooled.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/util.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/unix.rs
+
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/tempfile-312459fb508b94bd.d: /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/lib.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/dir.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/error.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/mod.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/mod.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/spooled.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/util.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/unix.rs
+
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/lib.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/dir.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/error.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/mod.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/mod.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/spooled.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/util.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.8.0/src/file/imp/unix.rs:

@@ -1,0 +1,11 @@
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/futures_task-4f9e019eee297b2e.rmeta: /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/futures_task-4f9e019eee297b2e.d: /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs /Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/lib.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/spawn.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/arc_wake.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/waker_ref.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/future_obj.rs:
+/Users/mugisha/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.28/src/noop_waker.rs:
