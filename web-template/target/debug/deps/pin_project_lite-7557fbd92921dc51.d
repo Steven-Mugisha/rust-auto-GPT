@@ -1,0 +1,7 @@
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/pin_project_lite-7557fbd92921dc51.rmeta: /Users/mugisha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-lite-0.2.13/src/lib.rs
+
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/libpin_project_lite-7557fbd92921dc51.rlib: /Users/mugisha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-lite-0.2.13/src/lib.rs
+
+/Users/mugisha/Desktop/clone/rust-auto-GPT/web-template/target/debug/deps/pin_project_lite-7557fbd92921dc51.d: /Users/mugisha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-lite-0.2.13/src/lib.rs
+
+/Users/mugisha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-lite-0.2.13/src/lib.rs:
